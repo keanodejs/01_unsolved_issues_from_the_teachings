@@ -13,5 +13,5 @@ The example that did not work when i showed it to you, and an explanation of why
 
 ## Installation
 
-```` git clone https://github.com/keanodejs/01_unsolved_issues_from_the_teachings.git ```
+``` git clone https://github.com/keanodejs/01_unsolved_issues_from_the_teachings.git ```
 
