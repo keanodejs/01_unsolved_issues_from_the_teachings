@@ -9,7 +9,7 @@ An example that shows the problem.
 
 The example that did not work when i showed it to you, and an explanation of why it did not.
 
-**The Solution to the exercise this is all about can be found in the repository [01_tutorial_my_first_webserver](https://github.com/keanodejs/01_tutorial_my_first_webserver)
+**The Solution to the exercise this is all about can be found in the repository [01_tutorial_my_first_webserver](https://github.com/keanodejs/01_tutorial_my_first_webserver)**
 
 ## Installation
 
